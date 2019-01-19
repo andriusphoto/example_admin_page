@@ -1,0 +1,5 @@
+name: admin page
+type: module
+description: a module to provide an admin page for a custom module.
+core: '8.x'
+configure: admin_page.settings

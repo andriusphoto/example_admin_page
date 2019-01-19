@@ -1,0 +1,8 @@
+admin_page.settings:
+  path: '/admin/config/system/admin_page/config'
+  defaults:
+    _form: '\Drupal\admin_page\Form\Settings'
+    _title: 'Admin Page'
+  requirements:
+    _permission: 'administer site configuration'
+

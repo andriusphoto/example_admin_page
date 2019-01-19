@@ -1,0 +1,6 @@
+admin_page.settings:
+  title: 'Admin Page'
+  description: 'Provides an admin page for a custom module.'
+  route_name: admin_page.settings
+  parent: system.admin_config_system
+
